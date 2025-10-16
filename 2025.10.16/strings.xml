@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rejestracja</string>
+    <string name="rejestruj">Rejestruj konto</string>
+    <string name="email">Podaj e-mail:</string>
+    <string name="haslo1">Podaj hasło:</string>
+    <string name="haslo2">Powtórz hasło:</string>
+    <string name="button">Zatwierdź</string>
+    <string name="tekst">Witaj użytkowniku!</string>
+    <string name="hint">email</string>
+</resources>
