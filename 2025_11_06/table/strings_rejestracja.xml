@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aplikacJA</string>
+    <string name="zaloguj">Zarejestruj</string>
+    <string name="logowanie">Rejestracja</string>
+    <string name="wpisz_nazw_u_ytkownika">Wpisz nazwę użytkownika</string>
+    <string name="wpisz_has_o">Wpisz hasło</string>
+    <string name="nie_jestem_robotem">Nie jestem robotem</string>
+    <string name="powt_rz_has_o">Powtórz hasło</string>
+</resources>
