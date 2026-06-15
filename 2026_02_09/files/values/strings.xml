@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sprawdzian Władysław Furmańczyk 4C</string>
+    <string name="note">Zapisz uwagę</string>
+    <string name="classname">Klasa</string>
+    <string name="surname">Nazwisko</string>
+    <string name="name">Imię</string>
+    <string name="noUniform">Zgłoś brak mundurka</string>
+    <string name="logoZsk">Logo ZSK</string>
+    <string name="back">Dodaj nową uwage</string>
+</resources>
