@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Eta</string>
+    <string name="counterText">Kliknąłeś przycisk 0 razy</string>
+    <string name="e_mailAdress">Adres e-mail</string>
+    <string name="buttonText">Zwiększ liczbę</string>
+    <string name="name">Imię</string>
+    <string name="welcome_message">Witaj, %1$s! Twój adres e-mail to: %2$s</string>
+    <string name="click_count_message">Kliknąłeś przycisk %1$d razy</string>
+    <string name="error_missing_data">Najpierw uzupełnij swoje dane</string>
+</resources>
