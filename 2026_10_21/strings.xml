@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dzeta</string>
+    <string name="ownersName">Imię i nazwisko właściciela...</string>
+    <string name="title">Wizyta u weterynarza</string>
+    <string name="species">Gatunek</string>
+    <string name="ok">OK</string>
+    <string name="hour">16:00</string>
+    <string name="visitGoal">Cel wizyty</string>
+    <string name="ageQuestion">Ile ma lat?</string>
+    <string name="zero">0</string>
+</resources>
